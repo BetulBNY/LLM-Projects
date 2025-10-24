@@ -1,0 +1,18 @@
+# Create environment
+uv venv bny
+
+# Activate Environment
+.\bny\Scripts\Activate.ps1
+
+# For deactivate environment
+deactivate
+
+# For listing environment
+uv pip list
+
+# For install Libraries
+uv pip install selenium
+uv pip install ipykernel
+
+# for help
+uv --help
