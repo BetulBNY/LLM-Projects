@@ -1,0 +1,10 @@
+## Technology:
+Use OpenAI API
+Use One-Shot Prompting
+Stream back results and show with formatting
+
+## Purpose:
+Create a product that can generate marketing brochures about a company
+For prospective clients
+For investors
+For recruitment
